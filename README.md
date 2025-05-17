@@ -1,4 +1,4 @@
-# Baristanet Monorepo
+# Rupiah4x Monorepo
 
 ## Quickstart
 
